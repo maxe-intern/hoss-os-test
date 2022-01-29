@@ -1,3 +1,3 @@
 # hoss-os-test
 
-Installer and hopefully more in the future for our application
+Home assistant Installer for docker on debian and hopefully more in the future for our application
